@@ -1,4 +1,8 @@
 .display-img {
     clip-path: circle(37% at 55% 50%);
-    width: 22vh;
+    width: 6vh;
+}
+
+.social-icon {
+    color: #ffffff;
 }
